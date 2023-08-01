@@ -1,2 +1,2 @@
 # Tracery
-Some demo by Tracery
+Some demos about Tracery
