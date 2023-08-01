@@ -1,0 +1,79 @@
+{
+  "origin": [
+    "#greeting.capitalize#, #fortune_desc# #fortune_noun# is #fortune_state#.",
+    "#fortune_desc.capitalize# #fortune_noun# is #fortune_state#, #parting#.",
+    "#fortune_phrase.capitalize# for #fortune_noun#."
+  ],
+  "greeting": [
+    "hello",
+    "hi",
+    "greetings",
+    "good day"
+  ],
+  "parting": [
+    "goodbye",
+    "farewell",
+    "until next time",
+    "have a great day",
+    "take care"
+  ],
+  "fortune_phrase": [
+    "taking risks",
+    "being prepared",
+    "being grateful",
+    "Seizing opportunities",
+    "Navigating change",
+    "Cultivating positive relationships",
+    "Learning from mistakes",
+    "Staying open-minded",
+    "Embracing creativity",
+    "Keeping a positive attitude"
+  ],
+  "fortune_desc": [
+    "great",
+    "massive",
+    "substantial",
+    "incredible",
+    "remarkable",
+    "impressive",
+    "amazing",
+    "phenomenal",
+    "astounding",
+    "staggering",
+    "prosperous",
+    "fortuitous",
+    "fruitful"
+  ],
+  "fortune_noun": [
+    "fortune",
+    "luck",
+    "wealth",
+    "prosperity",
+    "blessing",
+    "windfall",
+    "treasure",
+    "jackpot",
+    "bonanza",
+    "abundance",
+    "destiny",
+    "fate",
+    "chance",
+    "success",
+    "serendipity"
+  ],
+  "fortune_state": [
+    "shining",
+    "smiling",
+    "glowing",
+    "radiating",
+    "beaming",
+    "gleaming",
+    "sparkling",
+    "dazzling",
+    "flashing",
+    "glistening",
+    "booming",
+    "flourishing",
+    "encouraging"
+  ]
+}

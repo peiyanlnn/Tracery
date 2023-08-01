@@ -1,0 +1,80 @@
+{
+  "origin": [
+    "#spicy hot pot#"
+  ],
+  "spicy hot pot": [
+    "The soup base is #soup base.a#, seasoned with #seasoning#. Add #count# #meat.s#, #seafood#, #vegetable#. #staple.capitalize# is the staple."
+  ],
+  "count": [
+    "2",
+    "3",
+    "4"
+  ],
+  "meat": [
+    "sliced mutton",
+    "beef roll",
+    "pork Roll",
+    "lunch meat",
+    "beef meatball",
+    "bacon",
+    "duck intestine",
+    "sausage",
+    "fresh grade breast",
+    "crispy intestine"
+  ],
+  "seafood": [
+    "fish head",
+    "eel slice",
+    "cuttlefish",
+    "crab",
+    "prawn",
+    "lobster",
+    "crawfish",
+    "scallop",
+    "abalone",
+    "clam"
+  ],
+  "vegetable": [
+    "Chinese cabbage",
+    "coriander",
+    "lettuce",
+    "spinach",
+    "day lily",
+    "water spinach",
+    "bean sprouts",
+    "crown daisy",
+    "white gourd",
+    "endive sprout",
+    "cucumber",
+    "broccoli",
+    "cauliflower",
+    "potato",
+    "Chinese yam",
+    "lotus root",
+    "tofu",
+    "dried tofu",
+    "fried bean curd puff",
+    "fried gluten puff"
+  ],
+  "soup base": [
+    "plain broth",
+    "mildly spicy broth",
+    "mushroom soup pot",
+    "moderately spicy pot",
+    "very spicy pot"
+  ],
+  "staple": [
+    "fried bean curd puff",
+    "vermicelli",
+    "rice",
+    "corn",
+    "fine noodles"
+  ],
+  "seasoning": [
+    "sesame paste",
+    "hoisin sauce",
+    "chili sauce",
+    "tabasco sauce",
+    "peanut sauce"
+  ]
+}
